@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center;
+    width: calc(100vw - 4rem);
+    padding: 0 2rem;
+} 
+
+.sideBar, .search { 
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 2rem;
+} 
+
