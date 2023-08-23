@@ -3,5 +3,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-family: 'Nanum Gothic', cursive;
+    font-family: 'Open Sans', cursive;
+    height: 100vh;
+    width: 100vw;
 }
